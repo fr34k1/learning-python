@@ -14,7 +14,6 @@ chessboard={
 }
 
 
-tu hermana en tanga
 
 
 
